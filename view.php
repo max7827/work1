@@ -6,7 +6,8 @@
 </head> 
 <body> 
 	<h1>view images</h1>
-	
+	<p>safsuyasfn</p>
+
 	<p><a href="view.php">upload image</a></p>
 	<br>
 	

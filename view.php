@@ -6,7 +6,7 @@
 </head> 
 <body> 
 	<h1>view images</h1>
-	<h1>view all images here</h1>
+	
 	<p><a href="view.php">upload image</a></p>
 	<br>
 	
